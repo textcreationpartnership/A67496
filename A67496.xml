@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>War and its effects, laid out to the life being a seasonable advice to our Protestant brethren now ready to go against the Irish rebels usurping authority in the kingdom of Ireland / by Philopolites.</title>
+            <author>Philopolites.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67496</idno>
+            <idno type="STC">Wing W726</idno>
+            <idno type="STC">ESTC R13383</idno>
+            <idno type="EEBO-CITATION">13319803</idno>
+            <idno type="OCLC">ocm 13319803</idno>
+            <idno type="VID">99032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 442:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>War and its effects, laid out to the life being a seasonable advice to our Protestant brethren now ready to go against the Irish rebels usurping authority in the kingdom of Ireland / by Philopolites.</title>
+                  <author>Philopolites.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>War --  Religious aspects --  Christianity.</term>
+               <term>War (Philosophy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99032:1"/>
+            <pb facs="tcp:99032:1"/>
+            <p>WAR, AND ITS EFFECTS, Laid out to the LIFE:</p>
+            <p>BEING A <hi>Seaſonable Advice</hi> TO OUR PROTESTANT BRETHREN, Now ready to go againſt the IRISH REBELS Uſurping Authority in the Kingdom of IRELAND.</p>
+            <p>By <hi>Philopolites.</hi>
+            </p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Miller,</hi> at the <hi>Gilded Acorn</hi> in St. <hi>Paul</hi>'s Church-Yard, 1689.</p>
+            <p>Where Gentlemen and Others, may be furniſhed with moſt ſorts of Acts of Parliament and other State Matters; as alſo Books of Divinity, Church-Government, Sermons on moſt Occaſions, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99032:2"/>
+            <pb facs="tcp:99032:2"/>
+            <head>To the Noble, Valiant and Ge<g ref="char:EOLhyphen"/>nerous Undertakers for the Re<g ref="char:EOLhyphen"/>taking of the Kingdom of <hi>IRELAND</hi> from the <hi>IRISH</hi> POPISH RE<g ref="char:EOLhyphen"/>BELS, now in Rebellion againſt the King and Queen of <hi>ENGLAND.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sirs,</salute>
+            </opener>
+            <p>BEing aſſured that your Perſons have been ever accompanied with Courage, Valour, Wiſdom, and Clemency, it hath been a great emboldening unto your Servant, to make a duti<g ref="char:EOLhyphen"/>ful preſent hereof to your Peruſals and Patronage; not to the purpoſe, that this can be either your directions or inſtructions, (as you be frequently converſant in all paſſages of this nature) but rather to expreſs ſuch things to your view; knowing ye are expert in the Original.</p>
+            <p>Needleſs it were to teach <hi>Typhis</hi> to ſteer a Ship; or to inſtruct <hi>Automedon</hi> to guide a Chariot,
+<pb facs="tcp:99032:3"/>
+ſhould your Servant apprehend any ſuch Ambition, he must neceſſarily incur the aſperſion of Impudence, or expreſs ſuch palpable ignorance, as might draw him into a juſt imputation of folly: But, noble Sirs, ſuch is the modeſty of your humble ſervant, that by ſtudying to be free from either, he may evade the aſperſion of both; only deſiring your beſt con<g ref="char:EOLhyphen"/>ſtructions of theſe his weak and unpoliſhed labours, which preſent themſelves ſo rudely into your preſence. Noble Spirits, upon your generous diſpoſitions, I humbly proſtrate my ſelf, together with theſe my im<g ref="char:EOLhyphen"/>perfect labours to your judicious cenſures, whoſe leaſt diſtaſte is able to ſtifle the hope of your Servant, and whoſe favourable approbations, have Power to give Life to theſe the weak Endeavours of</p>
+            <closer>
+               <signed>YOUR Humble Servant to all Poſterity, <hi>Philopolites.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99032:3"/>
+            <head>WAR, AND THE EFFECTS thereof, laid out to the Life, <hi>&amp;c.</hi>
+            </head>
+            <p>WAR in general is a Lawful Defence,<note place="margin">What War is.</note> whereby the Law<g ref="char:EOLhyphen"/>ful Magiſtrate, for juſt Cauſes taking up Arms, doth pub<g ref="char:EOLhyphen"/>lickly repel Force with Force, revengeth publick and general Injuries; or recovers general, or generally ſuſtained loſſes.</p>
+            <p>In this Definition, three things are obſer<g ref="char:EOLhyphen"/>vable, <hi>viz.</hi>
+               <list>
+                  <item>Firſt, That War is not to be undertaken, but for juſt Cauſes.</item>
+                  <item>Secondly, That it belongs only unto the Magiſtrate to make War, and not to private Perſons.</item>
+                  <item>
+                     <pb n="2" facs="tcp:99032:4"/>Thirdly, That it is not to be moved, but repelled; not kindled, but quenched; that is, rather for Defence than Offence; for the pu<g ref="char:EOLhyphen"/>niſhing of Injuries, than the doing of wrong; all which ſhews evidently the lawfulneſs of the Proteſtants againſt <hi>Iriſh</hi> Papiſts in <hi>Ireland,</hi> being for Religion enacted by Parliament, and the Republick's good, and defence of the late Setlement, all at preſent being (in that King<g ref="char:EOLhyphen"/>dom) under Papal Juriſdiction, Military and Civil, contrary to Law.</item>
+               </list>
+            </p>
+            <p>The <hi>Query</hi> will be, what the Ground and Cauſes of War are.</p>
+            <p>
+               <hi>Anſwer,</hi> Firſt in general, <hi>Alexander</hi> the Great,<note place="margin">The Cauſes of War.</note> being once demanded, why he endea<g ref="char:EOLhyphen"/>voured by War to be Lord of the whole World; made Anſwer, All the Wars that are raiſed in this World, are for one of theſe three Cauſes, either to have many Gods, many Laws, or many Kings;<note place="margin">Guevara fa<g ref="char:EOLhyphen"/>miliar. Epiſt. Pag. 240.</note> therefore, I deſire (ſaith he) by War to poſſeſs the World, and to command it, that all the Inhabitants thereof, may Ho<g ref="char:EOLhyphen"/>nour but one God, ſerve but one King, and obſerve but one Law.</p>
+            <p>War comes ſometimes from a good Ground or Cauſe, ſometimes from a bad Foundation.</p>
+            <p>
+               <note place="margin">Aug. in lib de verbo Domini.</note>Wars from a good Ground (as our now Proteſtant War with <hi>Ireland</hi>) is to make Men live in Peace. Whence St. <hi>Auguſtine</hi> ſaith; <hi>That even amongſt, yea by, the true Worſhippers of God, Wars are often raiſed and undertaken, not out of Covetouſneſs or Cruelty, but out of a true and ſincere deſire of ſetling Peace.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:99032:4"/>Hence the <hi>Emblematiſts</hi> deviſed this <hi>Hiero<g ref="char:EOLhyphen"/>glyphick</hi> to expreſs this Truth,<note place="margin">Andr. Al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iat. Emblem. Pag. 445.</note> 
+               <hi>viz.</hi> a Helmet that had been uſed in War, being in time of Peace neglected and laid by, a Swarm of Bees (Emblems of ſweet Peace) come and live, build and breed therein: The Motto was, <hi>Ex bello pax, Peace is the Off-ſpring of War;</hi> or, <hi>War the Parent of Peace;</hi> much like unto the Souldiers Sword which in <hi>Martial,</hi> was turned in the time of Peace, into a Reapers Sickle,
+<q xml:lang="lat">
+                  <l>Pax me certa ducis placidos curvavit in uſus;</l>
+                  <l>Agricolae nunc ſum, Militis ante fui.</l>
+               </q>
+            </p>
+            <p>Secondly, Sometimes War comes from a bad bottom, (as the late <hi>Iriſh</hi> War began <hi>Anno</hi> 1641) and ſprings from either of theſe evil roots; to wit, either,</p>
+            <p>Firſt from ſome unbridled Pleaſures, and im<g ref="char:EOLhyphen"/>moderate and inordinate Luſts: Or, Secondly, From diverſity of Religion, (as it did here in <hi>England,</hi> in the Reign of <hi>Charles</hi> the Firſt;) ſometimes <hi>Satan</hi> the Father and Prince of He<g ref="char:EOLhyphen"/>reſies, ſtirs up War againſt the Woman; and Antichriſt always having an inteſtine hatred, and bitterneſs of Spirit and Mind againſt Chriſt and his Truth, inſtigates and ſets on work ſtill ſome Inſtruments or other, for the op<g ref="char:EOLhyphen"/>poſing, diſtructing and dividing of thoſe Per<g ref="char:EOLhyphen"/>ſons who profeſs the Goſpel: Or, Thirdly, from covetous Deſigns and Affections. The Fountain and Original of all Wars (ſaith <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi>)
+<pb n="4" facs="tcp:99032:5"/>
+are the corrupt, covetous deſires of Men. Fourthly, Wars come from Ambition, as with <hi>Tyrconnil,</hi> who is Ambitious to Rule <hi>Ireland,</hi> that Kingdom never ruled by Papiſts ſince Queen <hi>Elizabeth</hi>'s Reign until now, he being there placed, it is by a <hi>Romiſh</hi> King; yet by Act of Parliament contrary to Law, and at preſent he ſtill Uſurping, contrary to the pre<g ref="char:EOLhyphen"/>ſent eſtabliſhed Powers and Authority.</p>
+            <p>Having thus far run over the Grounds and Cauſes of War. Our next thing is to conſider <hi>Requiſita,</hi> what, or how many things be re<g ref="char:EOLhyphen"/>quiſite in War.</p>
+            <p>
+               <note place="margin">Three things neceſſary in War, as a Souldier. <hi>Thuyd. lib. 5.</hi>
+               </note>Theſe three things are neceſſary: Firſt, to be willing to fight; becauſe if a Man hunt with unwilling Hounds, he will ſcarcely ever catch the Hare; and if a Man fight againſt his Will, he will hardly endeavour as he ought, to overcome him, or them, with, or againſt whom he fighteth.</p>
+            <p>Secondly, to fear Diſgrace and Shame; for in caſe he be ſhameleſs and fearleſs of Diſgrace, he will quickly flee, and forſake his Colours.</p>
+            <p>Thirdly, to be obedient to Commanders; for in caſe the Souldier does not obey his Captain and Commanders, he will quickly be diſranked, he may be quickly ſlain or taken by the Enemy, and cannot perform any good ſervice for him, under whom he fights.</p>
+            <p>
+               <note place="margin">Three things neceſſary in War, as a Chriſtian.</note>But to ſpeak now as a Chriſtian only; theſe three things are neceſſary in War.</p>
+            <p>
+               <pb n="5" facs="tcp:99032:5"/>Firſt, a Lawful Authority commanding it; for War muſt not be attempted, without the Authority of the Magiſtrate.</p>
+            <p>Secondly,<note place="margin">1 Judg. 20.13. 2 King. 18.14.</note> a Lawful and Juſt end or cauſe occaſioning and moving it.</p>
+            <p>Thirdly, A good affection in following it, or a due conſideration of the manner of the enterprizing or proſecuting of this War; for though your cauſe of War againſt <hi>Ireland</hi> at preſent, be Juſt; yet you muſt not raſhly wage War, but all other means muſt firſt be tryed.</p>
+            <p>It is alſo requiſite to enquire what the Na<g ref="char:EOLhyphen"/>ture of War is.<note place="margin">What the Na<g ref="char:EOLhyphen"/>ture of War is, and its Ne<g ref="char:EOLhyphen"/>ceſſaries. <hi>Plutar. in La<g ref="char:EOLhyphen"/>con. Bruſo. lib. 3. c. 15.</hi> Witneſs the Citizens of <hi>Dublin</hi> going to <hi>Collens</hi>-wood on black <hi>Monday</hi> in <hi>Eaſter</hi> week.</note>
+            </p>
+            <p>Firſt, War is ſometimes the Whetſtone of Fortitude, and the encourager and ſtirrer of Youth unto Martial Diſcipline. When the King of the <hi>Lacedoemonians</hi> did threaten, that he would utterly deſtroy and raze a certain City (as <hi>Tyrconnil</hi> doth now threaten to Fire <hi>Dublin,</hi> in caſe he hears of Forces from hence landing) which had often annoyed the <hi>Lace<g ref="char:EOLhyphen"/>doemonians</hi> (as <hi>Dublin</hi> hath the <hi>Iriſh</hi> ever ſince the Conqueſt, it being never taken by them, although now in the hands of them by the permiſſion of the late King) and found them work; the <hi>Ephori</hi> would not permit it, ſaying, <hi>Thou ſhalt not destroy nor aboliſh the Whet<g ref="char:EOLhyphen"/>ſtone of Youth,</hi> calling thus that City, which ſo often troubled them, <hi>The Whetſtone of Touth;</hi> becauſe their young Men thereby were whetted, and their Affection ſet on edge, to
+<pb n="6" facs="tcp:99032:6"/>
+be skilful in the art of War, ſeeing there were thoſe ſo near them, who would try both their skill and ſtrength upon every occaſion and ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>
+               <note place="margin">Iſa. 21.15. Jer. 46.16. 2 Sam. 2.26. Jer. 5.22. Jer. 4.10.</note>Secondly, War moſt commonly is evil, whence the Scripture ſometimes calls it a Grievous Evil; ſometimes an oppreſſing Evil; ſometimes a bitter Evil, a devouring Evil; and ſometimes an Evil which pierceth unto the Heart and Soul.</p>
+            <p>Thirdly, War is of that Nature, that few are enriched thereby, as may thus appear: If any grow rich by War, then it is thoſe who gather the ſpoils thereof; but ſeldom theſe, therefore few or none. We ſay, <hi>Mala parta male dilabuntur, Goods ill got, waſte like Snow before the Sun;</hi> yea Lawful prey or pillage is ſeldom long enjoyed, according to our <hi>Engliſh</hi> Pro<g ref="char:EOLhyphen"/>verb, <hi>(lightly come, lightly go, and therefore I may ſpend it the more freely.)</hi>
+            </p>
+            <p>
+               <note place="margin">Joh. 1.15. Heb. 11.34. 2 Sam. 11. Ezek. 14.21.</note>Again, War is a miſerable Plague, whence this Word, <hi>War,</hi> in the <hi>Hebrew</hi> Tongue, hath its Name from <hi>cutting, biting,</hi> and <hi>devouring;</hi> becauſe Wars devour and conſume many; Hence the Sword is ſaid to have a Mouth, that is, an Edge; and to eat, that is, to kill. War is one of God's four Plagues,<note place="margin">2 Sam. 24. Lev. 26.16. Deut. 48.44.</note> yea one of his ſoreſt Judgments, and ſeems to be one of the greateſt of all the three or four.</p>
+            <p>Let not theſe miſeries, my dear Brethren, affrighten you, or cauſe ye to ſay, If War be of this Nature, then what may we think there<g ref="char:EOLhyphen"/>of?</p>
+            <p>
+               <pb n="7" facs="tcp:99032:6"/>Firſt,<note place="margin">Auguſtin. in Serm. de Cen<g ref="char:EOLhyphen"/>tur.</note> Ye may ſafely think ſome War is Lawful, as St. <hi>Auguſtine</hi> ſaith, <hi>If Christianity ſhould blame or tax all Wars, then, when the Souldiers asked Christ, what they ſhould do for the Salvation of their Souls; he would un<g ref="char:EOLhyphen"/>doubtedly have bidden them to caſt away their Weapons, and to have given over War, which Chriſt doth not, but only forbids them to wrong any, and bid them be content with their wages;</hi> which ſhews plainly that ſome Wars are Law<g ref="char:EOLhyphen"/>ful, and therefore not to be condemned: Juſt thus our War with <hi>Tyrconnil,</hi> and the <hi>Iriſh,</hi> is not to be condemned, as you ſhall hear anon.</p>
+            <p>Secondly,<note place="margin">Julius Caeſar Com. Lib. 7.</note> You may think that the event of War is moſt uncertain, and therefore they are much miſtaken, who expect from Wars no<g ref="char:EOLhyphen"/>thing but good news, and proſperous ſucceſs in all Deſigns and Enterpriſes; for he who puts on his Armour, muſt not brag, as he that puts it off. <hi>Philip</hi> of <hi>Macedon</hi> warring upon the <hi>Grecians, Diogenes</hi> came into his Tent, and being conducted to the Emperour, and asked if he were a Southſayer or Fortune-teller, anſwered, <hi>Yes, I am a true Fore-teller, and Fortune-teller of thy folly and vanity, who (when none compells thee) comes to hazard thy Life and Kingdom, to caſt the dice of War, whether thou ſhalt live or not, and whether thou ſhalt have a Kingdom at Command, or to poſſeſs or not.</hi> When two Armies are in the Fields, we ſee both of them to have warlike weapons;
+<pb n="8" facs="tcp:99032:7"/>
+and both to have Humane Bodies, and not the one of them to be armed, and the other naked; the one Mortal, and the other Immortal; and therefore ſucceſs, event, expectation, never deceive us or fruſtrate our hope ſo much in any thing, as in War.</p>
+            <p>
+               <note place="margin">War ſoon be<g ref="char:EOLhyphen"/>gun, but not eaſily ended.</note>Thirdly, You muſt conſider, War is not ſo eaſily ended as begun, therefore you are all to take notice of this, who undertake War, That it is eaſily begun, but hardly ended; eaſy to enter into, but hard to get out of, (like a cu<g ref="char:EOLhyphen"/>rious Garden Maze) the beginning and end<g ref="char:EOLhyphen"/>ing not being in the ſame Man's power; for every Coward or freſh-water Souldier may begin War, but it is laid aſide when the Con<g ref="char:EOLhyphen"/>queror will.</p>
+            <p>Another thing neceſſary for War, Souldiers and Officers are to know, that is, what things are juſtly taxed in War.</p>
+            <p>Firſt, An implacable deſire of revenge, or to miſchief thoſe with, or againſt whom ye fight; for although ye may puniſh Offences, yet ye muſt not revenge your ſelves; for in War, ye ſhould be more inclinable to ſpare, when ye can take, and with ſafety keep alive, than to kill, eſpecially, when the War is un<g ref="char:EOLhyphen"/>dertaken for the puniſhment of Delinquents (as thoſe now of <hi>Ireland</hi>) becauſe then, if ye may take them alive, they may fall by the Sword of Juſtice in the Magiſtrates Hand, as well as by you in Battle; and therefore they who have no mercy upon any in War, are juſtly taxed.</p>
+            <p>
+               <pb n="9" facs="tcp:99032:7"/>Secondly, Cruelty in revenging and pu<g ref="char:EOLhyphen"/>niſhing in Wars, is juſtly taxed; for although any of you, may kill your Enemy in Battle, you are not to delight in uſing Cruelty to<g ref="char:EOLhyphen"/>wards them, by deviſing new or ſtrange torments (as the <hi>Iriſh</hi> did to the Proteſtants in <hi>Ireland,</hi>) ripp up Women's Bellies, and take Infants out of the ſame, or caſting of Peo<g ref="char:EOLhyphen"/>ple down into the water from high Bridges, as they did over <hi>Port-down</hi>-Bridge; or for thruſting skeans into them, and leaving them in torture. Theſe Cruelties are to be avoided.</p>
+            <p>Thirdly, Cruelty and Pillage is taxed in War; for although it be not a Sin to fight in War, yet to fight or War only for Prey or Pillage, is a Crime.</p>
+            <p>In the next place,<note place="margin">The lawful<g ref="char:EOLhyphen"/>neſs of War at preſent with <hi>Ireland.</hi>
+               </note> you are to conſider the lawfulneſs of War, and how you may go a<g ref="char:EOLhyphen"/>gainſt your Enemies with a ſafe Conſcience, and upon terms you now are going to fight.</p>
+            <p>Firſt, Your now preſent War with <hi>Tyrconnil,</hi> is Juſt and Lawful, as it is for the Proteſtant Religion there in <hi>Ireland,</hi> planted by Au<g ref="char:EOLhyphen"/>thority of Parliament, and now a deſtroy<g ref="char:EOLhyphen"/>ing by Popiſh Rebels, uſurping, contrary to the Laws of <hi>England,</hi> to which that Kingdom is ſubject, and hath ſworn Obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>Secondly, It is Lawful, as you now wage War, only to ſecure the Republick's good, the continuance and ſetling of Peace and Quietneſs.</p>
+            <p>
+               <pb n="10" facs="tcp:99032:8"/>
+               <note place="margin">Qui deſiderat pacem prae<g ref="char:EOLhyphen"/>parat bellum. Vigetius. Tul. 1. Offic.</note>Men prepare War when they deſire Peace, becauſe (as we ſay in a Proverb) <hi>Weapons bode Peace;</hi> yea, Wars are undertaken, that Men may live in Peace, without Injury and Oppreſſions;<note place="margin">Auguſtin. in lib de verbo Dom.</note> and as Men ſuſtain and endure hard labour, upon hope of reſt and eaſe; ſo wiſe Men make War in hope, and for the per<g ref="char:EOLhyphen"/>fecting of Tranquility and Peace! Indeed, Men do not deſire Peace, that War may follow; but make War, that Peace may be obtained: Let thoſe therefore who wage War with or againſt any, be Peace-makers in their warring; that is, labouring to overcome thoſe againſt whom they fight and contend, that ſo they may bring them to embrace the ſweet and pro<g ref="char:EOLhyphen"/>fitable conditions of Peace. In War, we ſay the end muſt be good, which end in general is God's Glory, in ſpecial conſervation of Juſtice, and confirmation of Peace: <hi>Pugna Pacis Mater, War is the Mother of Peace.</hi>
+            </p>
+            <p>War is Lawful, as it is for the defence of Man's own rights,<note place="margin">2 Sam. 16.12.</note> or for the ſafety, ſafeguard and preſervation of our Cities and Habitations, (juſt thus is our condition, we poor Pro<g ref="char:EOLhyphen"/>teſtants of <hi>Ireland, Tyrconnil</hi> and all his crue having taken away our Places, Offices, Cattle, Habitations, Rights and Privileges, no Pro<g ref="char:EOLhyphen"/>teſtant having now any ſecurity for Life or Eſtate) for reaſon teacheth the Learned, <hi>Ne<g ref="char:EOLhyphen"/>ceſſity makes the old Wife trot, Cuſtom the Gentiles,</hi>
+               <note place="margin">Cicpromilone.</note> 
+               <hi>and Nature the wild Beaſts,</hi> to re<g ref="char:EOLhyphen"/>pay War with War, and Force by Force, when
+<pb n="11" facs="tcp:99032:8"/>
+they are robb'd and deprived of their Right, by Injuſtice and Oppreſſions.</p>
+            <p>War is Lawful, when it is to repulſe our Enemies; for <hi>Moſes</hi> ſaid to <hi>Joſhua, Chuſe us out Men, and go Fight:</hi> Upon which Words <hi>Piſcator</hi> obſerves, <hi>That it is Lawful for the People of God, to defend themſelves with wea<g ref="char:EOLhyphen"/>pons against ours Enemies:</hi> Thus do the Nor<g ref="char:EOLhyphen"/>thern Proteſtants againſt the Papiſts in <hi>Ireland,</hi> who will uſurp all into their Hands if they can: Therefore when <hi>Moſes</hi> bad <hi>Joſhua</hi> to chuſe out Men to go fight, he did nothing of himſelf, but by God's Directions.</p>
+            <p>Our War with the Papiſts of <hi>Ireland</hi> is juſt and lawful, being undertaken with good Ad<g ref="char:EOLhyphen"/>vice, and given over with all willingneſs, when it may, with Safety, and Conveniency, to the good and Benefit of Church and State.</p>
+            <p>Our War with <hi>Iriſh</hi> Papiſts is lawful as it is in the Defence of the Innocent: For that War whereby either our Country is defended from Invaders as from <hi>French,</hi>
+               <note place="margin">St. Ambroſ. de offic. Gen. 14.14.</note> or the weak and innocent from oppreſſion, or our friends from Thiefs and wicked Perſons, is a moſt juſt War; or when War is attempted, to bridle the inſolency and Cruelty of the wicked.</p>
+            <p>Our War with <hi>Ireland</hi> at preſent, is Lawful, for the puniſhing of thoſe publick injuries and wrongs done by Popiſh Government, by Popiſh Judges and Lawyers,<note place="margin">
+                  <hi>See</hi> Tul. Offic.</note> to the Proteſtants of that Realm, ſince the coming of the late King <hi>James</hi> the Second to the Crown, for juſt Wars
+<pb n="12" facs="tcp:99032:9"/>
+were wont to be thus defined, Contentions whereby we endeavour to puniſh publick in<g ref="char:EOLhyphen"/>juries and wrongs; and therefore that War was not only of old held juſt, but alſo neceſſa<g ref="char:EOLhyphen"/>ry, which defended force by force.</p>
+            <p>It is Lawful to fight againſt <hi>Ireland,</hi> as it is for the preſervation of Chriſtians, and of the People of God, 2 <hi>Sam.</hi> 10.12.</p>
+            <p>Our War with <hi>Iriſh</hi> Papiſts is now Lawful, as the cauſe is juſt and weighty, not light and frivolous, as about the ſhadow of an Aſs, or the fleece of a Goat, as the Proverbs are, that is, for trifles, and things of no value; but as <hi>Suetonius</hi> ſaid to and of <hi>Auguſtus,</hi>
+               <note place="margin">Suetonius in Auguſt. cap. 21.</note> 
+               <hi>Quod nulli genti ſine juſtis &amp; neceſſariis bellum intulit, That he never made War with any Nation, without juſt and neceſſary Cauſes.</hi>
+            </p>
+            <p>Our War is juſt, as it is taken by Lawful Au<g ref="char:EOLhyphen"/>thority from King, Queen, and from a Ge<g ref="char:EOLhyphen"/>neral Convention of a Nation and the Privy Council.</p>
+            <p>It is Lawful to War againſt the <hi>Iriſh,</hi> as they do at preſent injure all Proteſtant Subjects, and as they have invited Foreigners to come and cut us off from our Eſtates,<note place="margin">Judg. 19.25. and 1.5.</note> Religion, and Li<g ref="char:EOLhyphen"/>berties; for our Country may be here injured by two manner of ways: Firſt, as <hi>Tyrconnil</hi> invades us by unjuſt Forces, all our Temporal Poſſeſſions and Goods, labouring by a ſtrong Hand, to deprive us utterly of them, whether they be our Liberties, Laws, Lives, Wealth, In<g ref="char:EOLhyphen"/>heritance, Wives, Children, <hi>&amp;c.</hi> Now againſt
+<pb n="13" facs="tcp:99032:9"/>
+ſuch as theſe, the Proteſtants have juſt cauſe to defend their Rights, all being proved by God's Word. Secondly, as that Traitor labours to rob and ſpoil us of our Spiritual and Eternal Trea<g ref="char:EOLhyphen"/>ſure and Riches, to wit,<note place="margin">Deut. 13.14. 2 Sam. 10.12.</note> of our true Worſhip of God, the true, pure and ſacred Scriptures and Religion, and conſequently the Salvation of our Souls.</p>
+            <p>Our War is Lawful (by God's Word) againſt <hi>Iriſh</hi> Papiſts, as againſt Apoſtates,<note place="margin">
+                  <hi>Deut. 13.12.</hi> See <hi>Lyranus</hi> in <hi>Numbers 31.</hi> And the Act of Parlia<g ref="char:EOLhyphen"/>ment.</note> and back-leaders in Religion, contrary to Reformation, and the Laws of the Nation, as well as of God.</p>
+            <p>Our War againſt <hi>Iriſh</hi> Papiſts is Lawful, as it is for the preſervation of the liberty of the Subject, and for the preventing of Popiſh ſla<g ref="char:EOLhyphen"/>very and bondage. <hi>When time and neceſſity re<g ref="char:EOLhyphen"/>quires</hi> (ſaith <hi>Tully) we muſt fight, becauſe death is to be preferred before baſe ſlavery and ſervitude, and a Man had better die in the Wars, than live in diſgrace and bondage.</hi>
+            </p>
+            <p>Laſtly, Our War is Lawful, as there is no other means left for the utter expul<g ref="char:EOLhyphen"/>ſing of Tyranny, Popery, Rebellion, Ido<g ref="char:EOLhyphen"/>latry, and Superſtition out of that Kingdom, but through War; as they be an inſolent and ſtubborn ſort of People, not contented with what the Acts of Setlement provided, nor with toleration of Maſs, but ſtrive to have all or nothing: Thus you ſee there is little hopes of ſafety any more for Proteſtants to live in that Kingdom, but by War.</p>
+            <p>Brethren, having I hope encouraged you with
+<pb n="14" facs="tcp:99032:10"/>
+the lawfulneſs of this juſt War, there are more things yet to be conſidered: You are always to remember, that in War, though your cauſe be juſt and lawful, and the Authority ſufficient; yet muſt not this War be raſhly or haſtily un<g ref="char:EOLhyphen"/>dertaken, for no Man tryeth extremities at the firſt; for War is one of the ſharpeſt remedies to cure the maladies of a Common-wealth, and the event thereof is both doubtful and dange<g ref="char:EOLhyphen"/>rous, and therefore it is the laſt refuge you have, neceſſity enforcing you thereunto.</p>
+            <p>
+               <note place="margin">Num. 10.9.</note>I know ſome ſort of People will be apt to diſpute whether it be Lawful for Chriſtians, now under the Goſpel, to make War or not. That it is Lawful, it is thus proved.</p>
+            <p>
+               <note place="margin">Judg. 1.38.</note>Firſt, The Almighty God preſcribed a form for making War, <hi>Deut.</hi> 20.1. therefore cer<g ref="char:EOLhyphen"/>tainly God himſelf did allow his People ſome<g ref="char:EOLhyphen"/>times, and upon ſome occaſions, to make War.</p>
+            <p>Secondly, You may read that many of Gods, Faithful Servants have made War; as <hi>Abraham, Gen.</hi> 14.18. as <hi>Moſes, Exod.</hi> 17.8. <hi>Joſhua, Exod.</hi> 17.9. <hi>Joſh.</hi> 1.14. <hi>Judg.</hi> 1, 3, 4, 5, 7, 8, and 11. Chapters. Alſo the Kings have made War, as <hi>David, Aſa, Jehoſaphat, Hezekiah.</hi>
+            </p>
+            <p>
+               <note place="margin">Luke 3.14.</note>Thirdly, St. <hi>John Baptiſt</hi> forbids not Soul<g ref="char:EOLhyphen"/>diers to fight, neither commands he them to give over War, if they would be ſaved, but to wrong none and to be content with their wages.</p>
+            <p>
+               <note place="margin">Rom. 13.4.</note>Fourthly, the Magiſtrate is ſaid, not to bear the Sword in vain, but to be the Miniſter of God for our good, and a revenger to execute
+<pb n="15" facs="tcp:99032:10"/>
+wrath upon him who doth evil; which plain<g ref="char:EOLhyphen"/>ly ſheweth, that the right of the Sword is al<g ref="char:EOLhyphen"/>lowed both againſt private faults and Offen<g ref="char:EOLhyphen"/>ders, and alſo againſt publick, who by Arms are to be reſiſted and oppoſed.</p>
+            <p>Fifthly,<note place="margin">Act. 10.1.</note> 
+               <hi>Cornelius</hi> the Centurion is com<g ref="char:EOLhyphen"/>mended for his Faith, and did not give over Warfare (that we read of) when he was bap<g ref="char:EOLhyphen"/>tized; which, undoubtedly, the Apoſtles would have mentioned, and not have ſuffered, if War had been prohibited unto Chriſtians; and ſo likewiſe is the Faith of another Centu<g ref="char:EOLhyphen"/>rion commended highly, <hi>Matt.</hi> 8.10.</p>
+            <p>Sixthly it is moſt certain that the greateſt part of the Magiſtrate's Duty is to protect and defend Innocents, Orphans, Widows, and thoſe that are oppreſſed, (ſuch as our Brethren and Siſters yet in <hi>Ireland,</hi>
+               <note place="margin">Rom. 13.4.</note> and that have eſca<g ref="char:EOLhyphen"/>ped <hi>Tyrconnil</hi>'s Tyranny) which ſometimes without Arms cannot be done: And therefore if the Caſe require it, the godly Magiſtrates may flee unto this laſt remedy, of War; now it may fall out, that not one, or two, or a few, but a multitude may do evil, and commit ſome outrage, (as our <hi>Iriſh</hi> Enemies) who cannot be reſiſted but by force of Arms, and then the Magiſtrates are to uſe this means of the Sword, for the ſuppreſſion of Evil, and the vengeance of Evil-doers.</p>
+            <p>Seventhly,<note place="margin">Joſh. 1. Jud. 11. &amp; 13. Chap. 1 Sam. 15. &amp; 30. Chap. Pſal. 44.</note> That which God perſwades us unto, and which is done by the inſpiration and aſſiſtance of his Holy Spirit, is Lawful; but God often perſwades and exhorts the Saints
+<pb n="16" facs="tcp:99032:11"/>
+to make War, and is ſaid to be preſent with them by his Spirit, and to give Victory unto them; and therefore War is Lawful.</p>
+            <p>Eighthly, That which the Saints do by Faith, is Lawful unto them, <hi>But by Faith they make War,</hi> Heb. 11.34. therefore War is Law<g ref="char:EOLhyphen"/>ful unto Chriſtians.</p>
+            <p>
+               <note place="margin">Eccl. 3.8.</note>Ninthly, The Scripture ſaith, <hi>There is a time to War, and a time to make Peace:</hi> There<g ref="char:EOLhyphen"/>fore War is Lawful.</p>
+            <p>Laſtly, Our great God himſelf, is ſtiled, <hi>The Lord of Hoſts,</hi> as a Man of War, one who teacheth our hands to War, and our fingers to Fight, and who giveth Victory in Battle: Therefore a Chriſtian War, for God's Word, for the Truth and Religion, is Lawful.</p>
+            <p>But others will perhaps ſtartle you with this <hi>Query, Whether you may Lawfully oppoſe</hi> Tyr<g ref="char:EOLhyphen"/>connil, <hi>he having the late King's Commiſſion for his Government there, which is yet not deli<g ref="char:EOLhyphen"/>vered up.</hi>
+            </p>
+            <p>The Anſwer is, He had a Commiſſion for being Lord Deputy of <hi>Ireland;</hi> but the <hi>Query</hi> will be again, How far his Commiſſion will warrant his Actions: For the Earl of <hi>Strafford,</hi> who was formerly Lord Lieutenant of that Nation, was queſtioned in one or two of the Articles againſt him, for going beyond his Bounds and Commiſſion.</p>
+            <p>Again, are the Proteſtants of <hi>Ireland,</hi> the King's Subjects, as well as the Papiſts? or has he this inſerted in his Commiſſion, to oppreſs
+<pb n="17" facs="tcp:99032:11"/>
+Proteſtants, to Tyranize over them, and to ſup<g ref="char:EOLhyphen"/>preſs the Religion of the Church of <hi>England?</hi> no ſurely, for to do that were not only contra<g ref="char:EOLhyphen"/>ry to the Laws of God, and of <hi>England,</hi> but to the Coronation Oath of the late King <hi>James</hi> the Second, and to his promiſe: Further note, <hi>Ireland</hi> is an Iſland or Realm, ever ſince <hi>Gor<g ref="char:EOLhyphen"/>guntius</hi>'s his time, belonging to the Crown of <hi>England,</hi> and thereby ſubject to the Laws and Powers thereof, and depends on the Govern<g ref="char:EOLhyphen"/>ment and Laws of <hi>England,</hi> under whom ye your ſelves do derive your Commiſſions; and he, the ſaid <hi>Tyrconnil,</hi> uſurpeth that Government in not delivering up that Sword.</p>
+            <p>Let us now come to the remedies againſt War, that are both for the preventing and re<g ref="char:EOLhyphen"/>moval of it.</p>
+            <p>Now the remedies are either <hi>Moral, Martial,</hi> or <hi>Theological.</hi>
+            </p>
+            <p>Firſt, The <hi>Moral</hi> means are two; to wit, humble Suits and Supplications for Peace unto them, from whom a War is feared, and ex<g ref="char:EOLhyphen"/>preſſions of the Loyalty of our Actions, and ſincerity of our Intentions and Deſires, how<g ref="char:EOLhyphen"/>ever they may be wreſted or miſconſtrued.</p>
+            <p>The <hi>Military</hi> means are many; namely, Firſt, to follow cloſe a Victory. This was <hi>Hanibal</hi>'s fault, who could tell better how to win the Field, than how to uſe his Victory: And this <hi>Caeſar</hi> blamed in <hi>Pompey,</hi> that having once the better of him, he did not follow his Fortune.</p>
+            <p>
+               <pb n="18" facs="tcp:99032:12"/>Secondly, another <hi>Military</hi> means for re<g ref="char:EOLhyphen"/>moval of Wars, is Prudence, magnanimity and skill in Martial Diſcipline, in the Captains, Com<g ref="char:EOLhyphen"/>manders, and Officers.</p>
+            <p>Thirdly, Another is for Captains and Com<g ref="char:EOLhyphen"/>manders to obſerve, and mark diligently all conveniences and advantages of time and place, <hi>&amp;c.</hi> both for pitching their Tents, and fighting their Battles.</p>
+            <p>Fourthly, Another is, for Souldiers ſtrength, Courage, Reſolution, and Obedience to their Commanders.</p>
+            <p>Fifthly, Another is for Captains and Souldiers in neceſſity, when they cannot help one the other.</p>
+            <p>The laſt of our Martial means is, for Cap<g ref="char:EOLhyphen"/>tains and common Souldiers to be well armed, for and againſt all Eſſays and Aſſaults.</p>
+            <p>The <hi>Theological,</hi> or <hi>Religious</hi> remedies or means, for the preventing of Wars, are theſe.</p>
+            <p>To War upon our ſelves: The Oracle of <hi>Apollo,</hi> anſwered thoſe of <hi>Cyrrha, That if they would live in Peace at home, they ſhould make War with their Neighbours abroad;</hi> but if we deſire Peace with others, we muſt wage con<g ref="char:EOLhyphen"/>tinual War with our ſelves, our own Sins and wickedneſſes within, being the true cauſe of War without.</p>
+            <p>Secondly, To humble our ſelves before God by faſting, <hi>Joel</hi> 2.3. <hi>Jonah</hi> 3.</p>
+            <p>Thirdly, To enter into a Covenant and a Holy League with God, <hi>Hoſ.</hi> 2.18.</p>
+            <p>
+               <pb n="19" facs="tcp:99032:12"/>Fourthly, Seriouſly to repent, and to turn truly unto God, <hi>Lev.</hi> 26.40. <hi>Deut.</hi> 30.1.32.36. 1 <hi>Sam.</hi> 7.3.</p>
+            <p>Fifthly, A promiſe of thankfulneſs and thankſgiving unto the Lord, if he will be pleaſed to give Victory unto us, or preſerve and deliver us from War, and the performance of this promiſe, when he had anſwered our deſires.</p>
+            <p>Sixthly, A Prayer unto God, and that both in general and particular.</p>
+            <p>Firſt, In general, we muſt pray that the Lord would be our Captain in the time of War, and take our part and fight for us, there being nothing without him which will or can help us: <hi>Neither ſtrong and well inſtructed Armies,</hi> Pſal. 33.16. <hi>Nor forced Cities,</hi> Amos 5.9. <hi>Nor great and mighty Colleagues or Confederates,</hi> Pſal. 60.13.62.10. Therefore let us not truſt in any of theſe, or the like; but only in the Lord, as our Forefathers have done formerly, whom he de<g ref="char:EOLhyphen"/>livered from their Enemies.</p>
+            <p>You are (dear Brethren) likewiſe to conſi<g ref="char:EOLhyphen"/>der the work of the Lord your God ordinarily by means; therefore ye muſt in ſpecial and more particularly pray when you are ready to fight, that the Lord would beſtow on your Captains, Commanders,<note place="margin">Pſal. 20.1, 5.</note> and Officers ſuch Wiſ<g ref="char:EOLhyphen"/>dom, that they may conſult of, manage and order all things prudently and diſcreetly, and proſecute, yea execute all things proſperouſly, unanimouſly and with good ſucceſs.</p>
+            <p>Secondly, That God would incline the Hearts
+<pb n="20" facs="tcp:99032:13"/>
+of the Souldiers unto Obedience and Subjection to their Captains, and preſerve them from all Sedition, and riſing up againſt their Com<g ref="char:EOLhyphen"/>manders.</p>
+            <p>Thirdly, That the Almighty God would preſerve both Commanders and common Soul<g ref="char:EOLhyphen"/>diers from all wickedneſs and impiety, eſpe<g ref="char:EOLhyphen"/>cially from thoſe heinous offences which too frequently follow the Camp, and accompany Wars; as namely, Blaſphemy, Fornication, Rapes, Swearing, Drunkenneſs, Gaming, Jars, Contentions, Theft, Pilfering, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">Prov. 1.16. Prov. 28.9.</note>Now that theſe your Prayers may become Effectual, two things are required.</p>
+            <p>Firſt, They muſt proceed from a pure Mind, and from a Heart purged from Sin.</p>
+            <p>
+               <note place="margin">Iſa. 1.15. Iſa. 59.2. Mich. 3.1. Jam. 1.16.</note>Secondly, They muſt proceed from a Faith unfeigned, to wit, from a firm confidence and aſſurance, that the <hi>Lord of Hoſts</hi> would hear your Prayers, in as much as may ſtand with his Glory, and your Good. Thus much for the remedies or means for the removing of the Plague of War from you.</p>
+            <p>It may in the laſt place be demanded, how Victory may be obtained in War, or by what means you may not only be preſerved from the power of your Enemies in Battle, but alſo bring them by Conqueſt and Victory to Subjection?</p>
+            <p>Firſt, the Martial means for the obtaining of Victory in War, are either Negative or Affir<g ref="char:EOLhyphen"/>mative.</p>
+            <p>As for the Negative, if Souldiers deſire Con<g ref="char:EOLhyphen"/>queſt
+<pb n="21" facs="tcp:99032:13"/>
+in fight, then in the firſt place you muſt not fall to pillaging too ſoon, leſt your Ene<g ref="char:EOLhyphen"/>mies take occaſion thereby to fall upon you, and ſo take you unprovided.</p>
+            <p>Secondly, You muſt not purſue your Ene<g ref="char:EOLhyphen"/>mies in flight ſo eagerly as to mingle your ſelves with them, or to run your ſelves ſo far amongſt them, that you are not able to bring your ſelves off again with ſafety.</p>
+            <p>Thirdly, You muſt not truſt at all to the mul<g ref="char:EOLhyphen"/>titude, for not always that Army which is the greateſt prevails, but often times the leaſt; for proof ſake, <hi>Darius</hi> againſt <hi>Alexander, Pompey</hi> againſt <hi>Caeſar, Hanibal</hi> againſt <hi>Scipio, Antonius</hi> againſt <hi>Auguſtus,</hi> and <hi>Mithridates</hi> againſt <hi>Sylla,</hi> had greater Forces without compariſon than their Enemies, and yet were overcome.</p>
+            <p>Fourthly, You muſt not truſt in your own ſtrength,<note place="margin">Aug. de verbo Apoſt.</note> but hearken to the ſaying of a Grave and Pious Father, <hi>viz.</hi> to St. <hi>Auguſtine, Thou haſt therefore, O Man,</hi> (ſaith he) <hi>not overcome in Battle, becauſe thou preſumedſt of thy ſelf;</hi> for he who before fight truſts in his own ſtrength, ſhall be thrown.</p>
+            <p>Now, as touching the Affirmative martial Means, for the obtaining of Victory in War.</p>
+            <p>Firſt, for Captains highly to prize their Soul<g ref="char:EOLhyphen"/>diers: <hi>Fabius Maximus</hi> ſent to <hi>Rome</hi> to the Se<g ref="char:EOLhyphen"/>nate for Money to redeem the Souldiers which <hi>Hanibal</hi> had taken Priſoners, and being denyed thereof, commanded his Son to ſell all his Lands, and bring Money for their ranſome, ſo highly did he value and eſteem the freedom of his Men:
+<pb n="22" facs="tcp:99032:14"/>
+Thus every chief Officer ſhould do, if he would win the Love and Affection of his Sol<g ref="char:EOLhyphen"/>diers, without which, a Commander ſhould hardly obtain Victory.</p>
+            <p>
+               <note place="margin">Livius.</note>Secondly Courage and Reſolution in Battle; 300 noble Men of the Houſe of the <hi>Fabii,</hi> took upon them, all alone, to wage Battle againſt the <hi>Vientines,</hi> to ſhew, that a true and magnani<g ref="char:EOLhyphen"/>mous Souldier will not fear to undertake any noble, feaſible Enterprize for the obtaining of Victory in the Day of Battle.</p>
+            <p>
+               <note place="margin">Sen. Epiſt. 15.</note>Thirdly, long Preparation for the Underta<g ref="char:EOLhyphen"/>king thereof: For he muſt long prepare for War who would ſpeedily overcome; becauſe a long preparation of War makes a ſpeedy Victory.</p>
+            <p>
+               <note place="margin">Sen. Epiſt. 15.</note>Fourthly, proſecute your War with good Counſel and Advice; for there muſt be a Council at Home, when there is a War abroad.</p>
+            <p>Fifthly, You are to have a diligent obſerva<g ref="char:EOLhyphen"/>tion of all conveniencies and inconveniencies which may happen, whether of Sun, Wind, Miſts, <hi>&amp;c.</hi> for the Sun and Duſt hinder your ſight, and the Wind being contrary, or in your Face, is noxious both to Horſe, Rider, and all kinds of Dorts, Arrows, and Shots.</p>
+            <p>Sixthly, Truſt not to the multitude of wild young blades, but to the uſe and aſſiſtance of experienced Souldiers, who know their terms of art, poſtures, conveniencies, inconveniencies, when to advance, when to fall off, and how to uſe their Weapons, and how to handle their Arms; for if your Army do conſiſt of raw young and freſh-water Souldiers, who ſeldom or never
+<pb n="23" facs="tcp:99032:14"/>
+ſaw a Man wounded or fall,<note place="margin">Plutarch in Apoph.</note> when they come to ſee ſuch fights, they will tremble and be con<g ref="char:EOLhyphen"/>founded with fear, and think rather to fly away than to ſtay.</p>
+            <p>Seventhly,<note place="margin">Policy and Stratagems in War.</note> Policy and ſecret ſtratagems are to be obſerved in War; which Policy's threefold.</p>
+            <p>Firſt, In the immediate endangering of your Enemy; obſerve <hi>Hanibal,</hi> for he never ſought any Battle, without laying ſome ambuſh for the en<g ref="char:EOLhyphen"/>ſnaring of his Enemies. For when a juſt War is ta<g ref="char:EOLhyphen"/>ken in hand, it matters not whether a Man en<g ref="char:EOLhyphen"/>deavour to conquer, ſubdue, and worſt his adver<g ref="char:EOLhyphen"/>ſaries by open force, or ſecret politick devices; for our Almighty God commanded <hi>Joſhua</hi> by deceit or a ſecret ſtratagem, to overcome the In<g ref="char:EOLhyphen"/>habitants of <hi>Ai.</hi> Therefore remember <hi>Anti<g ref="char:EOLhyphen"/>gonus,</hi> who being asked, how a Man ſhould give the Onſet upon his Enemy; (he anſwered) <hi>either by force, or fraud; either openly, or by deceit.</hi>
+            </p>
+            <p>Secondly, Policy in War is ſometimes for the immediate preſervation of an Army, and mediate or conſequent diſadvantage of an Enemy; for <hi>P. Emilius</hi> to avoid the Sun that ſhined in his face, and in his Horſemen, was ſo long in ranging his Army, that by the time the Battles ſhould jo<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, the Sun was upon his back: The like policy uſed <hi>Marius,</hi> againſt the <hi>Cymbrians;</hi> and <hi>Auguſtus,</hi> againſt the <hi>Flemings.</hi>
+            </p>
+            <p>Thirdly, Policy in War is ſometimes for the encouraging of the Souldiers againſt their Ene<g ref="char:EOLhyphen"/>mies: For <hi>Polemon</hi> to make his Souldiers fiercer in aſſailing the <hi>Lacedaemonians,</hi> caſt his Colours into the midſt of his Enemies, whereupon they
+<pb n="24" facs="tcp:99032:15"/>
+preſſed on them with greater violence, eſteeming it a great ſhame to abandon their Ancient, or to have their Enemies poſſeſs their Enſign.</p>
+            <p>Theſe and many other the like Military means are and ought to be uſed for the obtaining of Victory of War.</p>
+            <p>Some may Object and ſay, That Victory in War comes only from God; and therefore, all Military means are vain, none being able to preſerve us from War. But hearken, we pray, to our Anſwer, to neglect the means wholly, is to tempt God's Pro<g ref="char:EOLhyphen"/>vidence, and to truſt in the means, is to diſtruſt in God's Providence: Therefore we muſt obſerve how means profit, and how not.</p>
+            <p>Firſt, Military means will help you; and they be means ordained by God, for the removal of the malady of War, if ye uſe them in the fear of the Lord your God, and becauſe ordained by him, putting our Truſt, Confidence, and Affiance for our Protection and Preſervation wholly in him, and in his loving kindneſs towards us, notwith<g ref="char:EOLhyphen"/>ſtanding the uſe of means.</p>
+            <p>Laſtly, My dear Brethren, you are to conſider, theſe means will not help you, if you deſpiſe and neglect your God, the God of Hoſts; for Victory in War is neither got by multitude, nor by ſtrength, but by the aid and aſſiſtance of him; now there<g ref="char:EOLhyphen"/>fore theſe Military means muſt be uſed, ſtill pray<g ref="char:EOLhyphen"/>ing to God for to grant his aſſiſtance to your en<g ref="char:EOLhyphen"/>deavours, for he is the God of Victory, and cauſeth Wars to ceaſe in the World, unto whom all praiſe and Glory belongs, both for the enjoyment of all Good, and preſervation from all Evil, whether of ſin or puniſhment.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99032:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
